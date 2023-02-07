@@ -1,0 +1,28 @@
+p{
+    color: brown;
+}
+a{
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+#first{
+    color: rgb(222, 115, 14);
+}
+#second{
+    color: green;
+}
+#third{
+    color: rgb(246, 67, 157);
+}
+.box{
+    color: orange;
+    width: 600px;
+    margin: 50px 50px;
+    padding: 60px;
+    border: 10px;
+    border-style: dashed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
